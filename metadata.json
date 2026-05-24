@@ -1,0 +1,6 @@
+{
+  "name": "ReelAI",
+  "description": "Sleek modern AI Reels script assistant, featuring a creator sandbox, persistent drafts catalog and procedural template triggers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
